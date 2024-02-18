@@ -23,7 +23,7 @@ Se puede observar el archivo de texto que contiene unicamente el codigo requerid
 
 [![Archivo de Texto](https://i.postimg.cc/RVyHNnH3/Archivo-de-texto.png "Archivo de Texto")](https://postimg.cc/BX56zbNs "Archivo de Texto")
 
-Como paso siguiente, por medio de la Terminal de Windows, se especifica la dirección del archivo en el sistema, como Python se encuentra instalado la Terminal logra interpretar satisfactoriamente este código:
+Como paso siguiente, por medio de la Terminal de Windows, se especifica la dirección del archivo en el sistema, ya que Python se encuentra instalado la Terminal logra interpretar satisfactoriamente este código:
 
 [![Terminal de Windows](https://i.postimg.cc/T1BccNpm/Terminal.png "Terminal de Windows")](https://postimg.cc/xNyHfRGT "Terminal de Windows")
 
